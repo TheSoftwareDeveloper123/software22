@@ -1,0 +1,6 @@
+int x;
+int y;
+x=eval(input("Enter the number"))
+y=eval(input("Enter the 2nd number"))
+z=x*y;
+print(z);
